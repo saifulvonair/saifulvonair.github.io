@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Blogs, presentations, open knowledege, research.
+subtitle: Professional and Personal Projects
 ---
 
 <!--
