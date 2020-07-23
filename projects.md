@@ -34,16 +34,15 @@ subtitle: Professional and Personal Projects
 -->
 
 ## Selected Personal Projects
-**[Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)**
+### [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)**
 
 _Github link:_ [Nano reader](...)
-
-**Other Project**
+### Other Project
 
 
 ## Selected Professional Projects
-**Pocketalk**
-_Description:_ A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.
+### Pocketalk
+*Description:* A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.
 
 
 ## Blogs
