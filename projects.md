@@ -33,6 +33,8 @@ subtitle: Professional and Personal Projects
 [documentation]: https://github.com/avaus/opendata/blob/master/trafi.md
 -->
 
+## Selected Personal Projects
+
 ## Blogs
 
 In addition to my [personal blog](http://ouzor.github.io/), I've been contributing to these other blogs (some pieces published in multiple blogs):
