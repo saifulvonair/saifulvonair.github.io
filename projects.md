@@ -34,11 +34,11 @@ subtitle: Professional and Personal Projects
 -->
 
 ## Selected Personal Projects
-** [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)
+**[Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)**
 
 * Github link: [Nano reader](...)
 
-** [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)
+**Other Project**
 
 
 ## Selected Professional Projects
