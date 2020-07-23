@@ -27,7 +27,7 @@ avatar: "/images/saiful_200.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "projects.html"
   Projects: "projects.html"
   About Me: "aboutme.html"
 #  Contact: "contact.html"
