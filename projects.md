@@ -16,9 +16,6 @@ subtitle: Professional and Personal Projects
 - something from Avaus?
 -->
 
-<!--
-* [Open data science](#opends)
-
 ## Selected Personal Projects
 ### [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)
 *Description:* Add description here 
