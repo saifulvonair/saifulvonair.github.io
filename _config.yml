@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Technical Profile
+title: Technical
 
 # Short description of your site
-description: I am Mohammad Saiful Alam now working as Senior General Manager @BJIT Bangladesh.
+description: Mohammad Saiful Alam's personal web page webpage
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ avatar: "/images/saiful_200.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "projects.html"
+  Home: ""
   Projects: "projects.html"
   About Me: "aboutme.html"
 #  Contact: "contact.html"
@@ -47,10 +47,10 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
-  facebook: true
+  rss: false
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: false
   stackoverflow: false
@@ -109,4 +109,4 @@ prose:
     - /js
 
 # plugins    
-plugins: [jekyll-paginate]
+#plugins: [jekyll-paginate]
