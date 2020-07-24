@@ -25,7 +25,7 @@ _Github link:_ [Nano reader](...)
 *Github link:* Add Github link    
 
 ## Selected Professional Projects
-### Pocketalk (https://www.pocketalk.net/)
+### [Pocketalk] (https://www.pocketalk.net/)
 *Description:* A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.    
 *Duration:* July 2014-August 2018    
 *Technology Used:* Android, AOSP    
@@ -38,7 +38,7 @@ Our basic goal is to establish a Deep Learning Training System BASEMENT and furt
 Technology used [C++, C#, GDI, Driver, COM, Addin]
 A PDF reader and edit application that can read and edit PDF files. We have added edit features like drawing and Erasing worked in C# and C++ layers. Added lots of other functionality like adding different shape, signature.
 
-### SonyReader(https://play.google.com/store/apps/details?id=com.sony.drbd.reader.other.jp&hl=en_US)   
+### [SonyReader](https://play.google.com/store/apps/details?id=com.sony.drbd.reader.other.jp&hl=en_US)   
 Technology used [Android, Java, JavaScript, HTML, CSS, Readium, PhoneGap]
 A complete reader application which can read Epub files with lots of other functionality. Like User login, Last reading position sync, Bookmark, Annotations. Page jump, History etc.
 
@@ -50,7 +50,7 @@ Complete e-commerce solution using nopCommerce. The registered or guest user can
 Technology used [ASP.NET MVC, JavaScript, HTML, CSS]
 Complete course management system using asp.net MVC. Keep record of all classes, students, registration, courses and also the qualifications.
 
-### E21 Mobile(https://apps.apple.com/us/app/e21-mobile/id580824025)
+### [E21 Mobile](https://apps.apple.com/us/app/e21-mobile/id580824025)
 Technology used [Phonegap, JqueryMobile, JavaScript, HTML, CSS]
 A customer relation manager project which has some users and they can manage their schedule, they can search customer, Add or edit new contact also can view their product. All the information stored in server and can get their required result from server. The project also manages some local database to make it faster for consecutive use.
 
