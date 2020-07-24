@@ -25,7 +25,7 @@ _Github link:_ [Nano reader](...)
 *Github link:* Add Github link    
 
 ## Selected Professional Projects
-### [Pocketalk] (https://www.pocketalk.net/)
+### [Pocketalk](https://www.pocketalk.net/)
 *Description:* A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.    
 *Duration:* July 2014-August 2018    
 *Technology Used:* Android, AOSP    
@@ -34,7 +34,7 @@ _Github link:_ [Nano reader](...)
 Technology used[ Javascript, python, NVIDIA DIGITS, AI]
 Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.
 
-### IkinariPDF
+### [IkinariPDF](http://www.sourcenext.com/en/products/ikinari_pdf.html)
 Technology used [C++, C#, GDI, Driver, COM, Addin]
 A PDF reader and edit application that can read and edit PDF files. We have added edit features like drawing and Erasing worked in C# and C++ layers. Added lots of other functionality like adding different shape, signature.
 
