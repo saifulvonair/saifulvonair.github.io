@@ -30,3 +30,19 @@ _Github link:_ [Nano reader](...)
 *Duration:* July 2014-August 2018    
 *Technology Used:* Android, AOSP    
 
+### iFilter
+Technology used[ Javascript, python, NVIDIA DIGITS, AI]
+Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.
+
+### IkinariPDF
+Technology used [C++, C#, GDI, Driver, COM, Addin]
+A PDF reader and edit application that can read and edit PDF files. We have added edit features like drawing and Erasing worked in C# and C++ layers. Added lots of other functionality like adding different shape, signature.
+
+### SonyReader
+Technology used [Android, Java, JavaScript, HTML, CSS, Readium, PhoneGap]
+A complete reader application which can read Epub files with lots of other functionality. Like User login, Last reading position sync, Bookmark, Annotations. Page jump, History etc.
+
+
+### E21NopCommerce
+Technology used [ASP.NET MVC, JavaScript, HTML, CSS]
+Complete e-commerce solution using nopCommerce. The registered or guest user can view product and can order. Product management life cycle and also customer management life cycle is maintained here.
