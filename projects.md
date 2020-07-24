@@ -28,6 +28,8 @@ This is an UNIQUE application among all the Bangladesh school book reading appli
 A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.<br/>
 **Technology Used:** Android, AOSP    
 
+**Responsibilities:** Project priposal and Estimation. Build the team with required members. Design the project artchitecture. Suppoort as an Architect for the initial version of the project. Perform code review and technical dcument review like PMP. Test plan, Test cases. Make STT, TTT, TTS **Engine** classes. Implement some TTS Engine like Nuance, Responsive. Implement the download model and webservice API model. Aslo Support teams to fix critial issues.  
+
 ### iFilter
 Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.<br/>
 **Technology used:** [ Javascript, python, NVIDIA DIGITS, AI]
