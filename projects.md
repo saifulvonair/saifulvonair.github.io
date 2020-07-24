@@ -34,6 +34,8 @@ A system android application built with API level 27(Android 8.1) for the PockeT
 Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.<br/>
 **Technology used:** [ Javascript, python, NVIDIA DIGITS, AI]
 
+**Responsibilities:** Worked as project manager also support team for technical issuee. Communicate with bridge engineer and confirm the requirements and deliverables. Made the webInterface for developer to see the training data output in webpage. Implement the text classification plugin in DIGITto classify the text. Support team to update Scrapy Engine to scrap the text from URL. Provide lots of solution for the team like checking text classification using different framework Torch, TensorFlow to get better accuracy.  
+
 ### [IkinariPDF](http://www.sourcenext.com/en/products/ikinari_pdf.html)
 A PDF reader and edit application that can read and edit PDF files. We have added edit features like drawing and Erasing worked in C# and C++ layers. Added lots of other functionality like adding different shape, signature.<br/>
 **Technology used:** [C++, C#, GDI, Driver, COM, Addin]
