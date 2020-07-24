@@ -18,16 +18,16 @@ subtitle: Professional and Personal Projects
 
 ## Selected Personal Projects
 ### [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)   
-This is an UNIQUE application among all the Bangladesh school book reading application having all NCTB books from class 1-10 both for Bangla and English version. This is UNIQUE because books are constructed and open with our own format and viewer not just showing book in a pdf reader. This reader can do many things sometimes more than students can do for the hard copied books which make this application UNIQUE.
+This is an UNIQUE application among all the Bangladesh school book reading application having all NCTB books from class 1-10 both for Bangla and English version. This is UNIQUE because books are constructed and open with our own format and viewer not just showing book in a pdf reader. This reader can do many things sometimes more than students can do for the hard copied books which make this application UNIQUE.<br/>
 *Technology Used:* Android, AOSP 
 
 ## Selected Professional Projects
 ### [Pocketalk](https://www.pocketalk.net/)
-A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.        
+A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.<br/>        
 *Technology Used:* Android, AOSP    
 
 ### iFilter
-Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.
+Our basic goal is to establish a Deep Learning Training System BASEMENT and further study on NVIDIA DIGITS. Train the machine based on our classes. Scrap the content from net to make the large data set that is used for training. Used text classification plugin to classify the text. Main focus was to classify the URL like News, Sports, Adults..etc.<br/>
 *Technology used:* [ Javascript, python, NVIDIA DIGITS, AI]
 
 ### [IkinariPDF](http://www.sourcenext.com/en/products/ikinari_pdf.html)
