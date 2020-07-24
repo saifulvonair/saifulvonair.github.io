@@ -23,7 +23,7 @@ This is an UNIQUE application among all the Bangladesh school book reading appli
 
 ## Selected Professional Projects
 ### [Pocketalk](https://www.pocketalk.net/)
-A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.<br/>        
+A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.<br/>
 *Technology Used:* Android, AOSP    
 
 ### iFilter
@@ -35,15 +35,15 @@ A PDF reader and edit application that can read and edit PDF files. We have adde
 *Technology used:* [C++, C#, GDI, Driver, COM, Addin]
 
 ### [SonyReader](https://play.google.com/store/apps/details?id=com.sony.drbd.reader.other.jp&hl=en_US)   
-A complete reader application which can read Epub files with lots of other functionality. Like User login, Last reading position sync, Bookmark, Annotations. Page jump, History etc.
+A complete reader application which can read Epub files with lots of other functionality. Like User login, Last reading position sync, Bookmark, Annotations. Page jump, History etc.<br/>
 *Technology used:* [Android, Java, JavaScript, HTML, CSS, Readium, PhoneGap]
 
 ### E21NopCommerce
-Complete e-commerce solution using nopCommerce. The registered or guest user can view product and can order. Product management life cycle and also customer management life cycle is maintained here.
+Complete e-commerce solution using nopCommerce. The registered or guest user can view product and can order. Product management life cycle and also customer management life cycle is maintained here.<br/>
 *Technology used:* [ASP.NET MVC, JavaScript, HTML, CSS]
 
 ### CMT
-Complete course management system using asp.net MVC. Keep record of all classes, students, registration, courses and also the qualifications.
+Complete course management system using asp.net MVC. Keep record of all classes, students, registration, courses and also the qualifications.<br/>
 *Technology used:* [ASP.NET MVC, JavaScript, HTML, CSS]
 
 ### [E21 Mobile](https://apps.apple.com/us/app/e21-mobile/id580824025)
