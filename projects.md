@@ -18,11 +18,7 @@ subtitle: Professional and Personal Projects
 
 ## Selected Personal Projects
 ### [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)   
-*Description:* Add description here   
-_Github link:_ [Nano reader](...)   
-### Another Project   
-*Description:* Add description here   
-*Github link:* Add Github link    
+*Description:* This is an UNIQUE application among all the Bangladesh school book reading application having all NCTB books from class 1-10 both for Bangla and English version. This is UNIQUE because books are constructed and open with our own format and viewer not just showing book in a pdf reader. This reader can do many things sometimes more than students can do for the hard copied books which make this application UNIQUE.
 
 ## Selected Professional Projects
 ### [Pocketalk](https://www.pocketalk.net/)
