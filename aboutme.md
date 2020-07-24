@@ -13,7 +13,7 @@ subtitle: The essentials
 
 **Hobbies**: Find improvement in current work process, Long drive, Love in family tour, cycling. 
 
-[My CV]: "/saiful_cv.pdf"
+[My CV]: "saiful_cv.pdf"
 [BJIT Limited]: https://bjitgroup.com/
 [SourceNext]: http://sourcenext.co.jp/
 [SONY]: https://www.sony.net/
