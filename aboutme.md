@@ -4,8 +4,6 @@ title: About me
 subtitle: [Resume]
 ---
 
-# **Resume:** [Resume]
-
 **Experience:** Working 16 Years in Software industry.
 
 **Work**: Since October 2017, I have been working as a **General Manager** [BJIT Limited]. Prior to that, I have worked few company in JAPAN like [SourceNext], [SONY], BJIT INC in couple years.
