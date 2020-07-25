@@ -40,6 +40,8 @@ Our basic goal is to establish a Deep Learning Training System BASEMENT and furt
 A PDF reader and edit application that can read and edit PDF files. We have added edit features like drawing and Erasing worked in C# and C++ layers. Added lots of other functionality like adding different shape, signature.<br/>
 **Technology used:** [C++, C#, GDI, Driver, COM, Addin]
 
+**Responsibilities:** Worked as project manager as well as Architect. Responsible for client communication, bridge engineer communication. Managing the PMP, WBS did initial R&D of the project how to add new feature like freehand drawing and Erasing function. Prepare the Estimation from SRS, manaing the task in Redmine.   
+
 ### [SonyReader](https://play.google.com/store/apps/details?id=com.sony.drbd.reader.other.jp&hl=en_US)   
 A complete reader application which can read Epub files with lots of other functionality. Like User login, Last reading position sync, Bookmark, Annotations. Page jump, History etc.<br/>
 **Technology used:** [Android, Java, JavaScript, HTML, CSS, Readium, PhoneGap]
