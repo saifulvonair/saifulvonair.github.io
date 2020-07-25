@@ -19,14 +19,14 @@ subtitle: Professional and Personal Projects
 ## Selected Personal Projects
 ### [Nano Reader](https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader&hl=en)   
 This is an UNIQUE application among all the Bangladesh school book reading application having all NCTB books from class 1-10 both for Bangla and English version. This is UNIQUE because books are constructed and open with our own format and viewer not just showing book in a pdf reader. This reader can do many things sometimes more than students can do for the hard copied books which make this application UNIQUE.<br/>
-**Technology Used:** Android, Firebase vision API, Firebase storage. 
+**Technology Used:** [Android, Firebase vision API, Firebase storage.] 
 
-**Responsibilities:** Project concept to implementation. Design the project artchitecture. Implement the Download module, License module, drawing framework, bookmark, bookshelf, Book **Reader Engine** Page jump, Adding Firebase vision API for text extraction from image and lots ot others.
+**Responsibilities:** Project concept to implementation. Design the project artchitecture. Implement the Download module, License module, drawing framework, bookmark, bookshelf, Book **Reader Engine** Page jump, Adding Firebase vision API for text extraction from image and lots of others.
 
 ## Selected Professional Projects
 ### [Pocketalk](https://www.pocketalk.net/)
 A system android application built with API level 27(Android 8.1) for the PockeTalk device, which is used for translating voice for most of the major languages in the world. PocketalkW is the initial version of the translation device which has STT,TTT,TTS support for various languages. PockeTalkW also has calculator, Badge, lock screen functionality, System language Settings.<br/>
-**Technology Used:** Android, AOSP    
+**Technology Used:** [Android, AOSP]    
 
 **Responsibilities:** Project priposal and Estimation. Build the team with required members. Design the project artchitecture. Suppoort as an Architect for the initial version of the project. Perform code review and technical dcument review like PMP. Test plan, Test cases. Make STT, TTT, TTS **Engine** classes. Implement some TTS Engine like Nuance, Responsive. Implement the download model and webservice API model. Aslo Support teams to fix critial issues.  
 
