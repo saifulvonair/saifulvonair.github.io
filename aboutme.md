@@ -6,11 +6,11 @@ subtitle: My resume and personal information
 
  **[Resume]**
   
-**Experience:** Working 16 Years in Software industry.
+**Experience:** Working for 16 Years in Software industry.
 
-**Work**: Since October 2017, I have been working as a **General Manager** [BJIT Limited]. Prior to that, I have worked few company in JAPAN like [SourceNext], [SONY], BJIT INC in couple years.
+**Work**: Since October 2017, I have been working as a **General Manager** [BJIT Limited]. Prior to that, I have worked in few company in JAPAN like [SourceNext], [SONY], BJIT INC for couple of years.
 
-**Education**: I finished my BSc in **Computer Science** at National University in 2003. Meanwhile I have worked as Lecturer in 2004 at NIT.
+**Education**: I finished my BSc in **Computer Science** at National University in 2003. I have worked as Lecturer for a short time in 2004 at NIT.
 
 **Certification:** ATM for CMMI level3 in 2014  
  
